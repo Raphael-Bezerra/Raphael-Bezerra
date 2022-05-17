@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 
 
-###🌱 I’m currently learning and looking to collaborate on:
+### 🌱 I’m currently learning and looking to collaborate on:
 
  <div>
   <a href="https://github.com/Raphael-Bezerra/raphael/edit/main/README.md">
