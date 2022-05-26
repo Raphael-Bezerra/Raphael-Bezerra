@@ -1,4 +1,4 @@
-# 👋 Hello! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Welcome to my Works.
+# 👋 Hello <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">! Welcome to my Works.
 
 
 ### 🌱 I am currently learning and looking to collaborate with:
