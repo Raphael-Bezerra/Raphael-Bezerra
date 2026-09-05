@@ -125,11 +125,11 @@ Projeto desenvolvido durante meus estudos de **Lógica de Programação**, utili
 
 ---
 
-### 3CheckFlow
+### CheckFlow
 
-Projeto de software voltado para **controle e digitalização de processos operacionais**.
+Solução de software voltada para controle, digitalização e rastreabilidade de processos operacionais.
 
-A solução nasceu utilizando **Google Apps Script** e atualmente também funciona como laboratório prático para aplicação de conceitos de Engenharia e Arquitetura de Software.
+O projeto surgiu a partir da observação de necessidades reais de operação e vem sendo utilizado como laboratório prático para aplicação de conceitos de Engenharia e Arquitetura de Software.
 
 **Conceitos trabalhados:**
 
@@ -138,7 +138,7 @@ A solução nasceu utilizando **Google Apps Script** e atualmente também funcio
 - Regras de negócio
 - Fluxos operacionais
 - Geração de documentos
-- Indicadores
+- Indicadores e dashboards
 - Modularização
 - Segurança
 - PostgreSQL
