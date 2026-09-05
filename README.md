@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Raphael Bezerra 👋</h1>
+<h1 align="center">Raphael Bezerra</h1>
 
 <h3 align="center">
 Desenvolvimento de Software • Engenharia de Software • Arquitetura • Automação
@@ -10,7 +10,7 @@ Desenvolvimento de Software • Engenharia de Software • Arquitetura • Autom
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou aprofundando meus estudos em **Engenharia e Arquitetura de Software**.
 
@@ -18,17 +18,17 @@ Minha trajetória profissional combina tecnologia, processos e negócio. Tenho e
 
 Atualmente venho direcionando minha evolução para desenvolvimento e engenharia de software, aplicando conceitos de arquitetura, segurança, modelagem de domínio e qualidade de software em projetos práticos.
 
-- 💻 Desenvolvimento de aplicações e automações
-- ⚙️ Google Apps Script e integração com Google Workspace
-- 📊 Análise de dados e indicadores
-- 🗄️ SQL e bancos de dados
-- 🏗️ Engenharia e Arquitetura de Software
-- 🔐 Segurança e controle de acesso
-- 📚 Estudo contínuo através de projetos práticos
+- Desenvolvimento de aplicações e automações
+- Google Apps Script e integração com Google Workspace
+- Análise de dados e indicadores
+- SQL e bancos de dados
+- Engenharia e Arquitetura de Software
+- Segurança e controle de acesso
+- Estudo contínuo através de projetos práticos
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ### Desenvolvimento
 
@@ -61,7 +61,7 @@ Atualmente venho direcionando minha evolução para desenvolvimento e engenharia
 
 ---
 
-## 🏗️ Engenharia e Arquitetura de Software
+## Engenharia e Arquitetura de Software
 
 Atualmente estudo e aplico conceitos como:
 
@@ -82,7 +82,7 @@ Atualmente estudo e aplico conceitos como:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -100,7 +100,7 @@ height="180"
 
 ---
 
-## 🔥 Consistência no GitHub
+## Consistência no GitHub
 
 <div align="center">
 
@@ -112,7 +112,7 @@ src="https://streak-stats.demolab.com?user=Raphael-Bezerra&theme=tokyonight&hide
 
 ---
 
-## 📈 Atividade
+## Atividade
 
 <div align="center">
 
@@ -124,9 +124,9 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 ---
 
-## 🧩 Projetos
+## Projetos
 
-### 🎮 Jogo do Número Secreto
+### Jogo do Número Secreto
 
 Projeto desenvolvido durante meus estudos de **Lógica de Programação**, utilizando JavaScript para aplicação prática de conceitos fundamentais da linguagem.
 
@@ -139,11 +139,11 @@ Principais conceitos:
 - Manipulação de elementos da página
 - Lógica de programação
 
-🔗 [Acessar projeto](https://github.com/Raphael-Bezerra/jogo-do-numero-secreto)
+[Acessar projeto](https://github.com/Raphael-Bezerra/jogo-do-numero-secreto)
 
 ---
 
-### ⚙️ 3CheckFlow
+### 3CheckFlow
 
 Projeto de software voltado para controle e digitalização de processos operacionais.
 
@@ -165,7 +165,7 @@ Entre os conceitos trabalhados estão:
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 ```text
 Engenharia de Software
