@@ -86,12 +86,14 @@ Atualmente estudo e aplico conceitos como:
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Raphael-Bezerra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raphael-Bezerra&theme=tokyonight"
+height="180"
 />
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Bezerra&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raphael-Bezerra&theme=tokyonight"
+height="180"
 />
 
 </div>
@@ -115,7 +117,7 @@ src="https://streak-stats.demolab.com?user=Raphael-Bezerra&theme=tokyonight&hide
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Raphael-Bezerra&theme=tokyo-night&hide_border=true"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raphael-Bezerra&theme=tokyonight"
 />
 
 </div>
