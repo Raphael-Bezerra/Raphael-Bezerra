@@ -1,8 +1,8 @@
 <h1 align="center">Raphael Bezerra</h1>
 
-<h3 align="center">
-Desenvolvimento de Software • Engenharia de Software • Arquitetura • Automação
-</h3>
+<p align="center">
+  <strong>Desenvolvimento de Software • Engenharia de Software • Arquitetura • Automação</strong>
+</p>
 
 <p align="center">
   Transformando problemas operacionais em soluções através de software, automação e dados.
@@ -10,58 +10,51 @@ Desenvolvimento de Software • Engenharia de Software • Arquitetura • Autom
 
 ---
 
-## Sobre mim
+## 🚀 Tecnologias e Ferramentas
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou aprofundando meus estudos em **Engenharia e Arquitetura de Software**.
-
-Minha trajetória profissional combina tecnologia, processos e negócio. Tenho experiência com desenvolvimento de soluções internas, automação de processos, análise de dados e plataformas SaaS.
-
-Atualmente venho direcionando minha evolução para desenvolvimento e engenharia de software, aplicando conceitos de arquitetura, segurança, modelagem de domínio e qualidade de software em projetos práticos.
-
-- Desenvolvimento de aplicações e automações
-- Google Apps Script e integração com Google Workspace
-- Análise de dados e indicadores
-- SQL e bancos de dados
-- Engenharia e Arquitetura de Software
-- Segurança e controle de acesso
-- Estudo contínuo através de projetos práticos
-
----
-
-## Tecnologias e Ferramentas
-
-### Desenvolvimento
+**Desenvolvimento**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
-### Banco de Dados e Dados
+**Dados e Banco de Dados**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-### Ferramentas
+**Ferramentas**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
 </p>
 
 ---
 
-## Engenharia e Arquitetura de Software
+## 👨‍💻 Sobre mim
+
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente aprofundo meus estudos em **Engenharia e Arquitetura de Software**.
+
+Minha experiência combina **desenvolvimento de soluções, automação de processos, análise de dados e plataformas SaaS**, sempre buscando transformar necessidades operacionais em soluções tecnológicas aplicáveis ao negócio.
+
+Atualmente direciono minha evolução para desenvolvimento e engenharia de software, com foco em arquitetura, segurança, modelagem de domínio e qualidade de software.
+
+---
+
+## 🏗️ Engenharia e Arquitetura de Software
 
 Atualmente estudo e aplico conceitos como:
 
@@ -72,35 +65,24 @@ Atualmente estudo e aplico conceitos como:
 - Autenticação e autorização
 - Segurança de aplicações
 - Observabilidade
-- Escalabilidade
-- Disponibilidade
+- Escalabilidade e disponibilidade
 - Clean Code
 - Modelagem de regras de negócio
 - PostgreSQL
-- PWA — Progressive Web App
+- **PWA — Progressive Web App**
 - Git e versionamento de software
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raphael-Bezerra&theme=tokyonight"
-height="180"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raphael-Bezerra&theme=tokyonight"
-height="180"
-/>
-
-</div>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raphael-Bezerra&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raphael-Bezerra&theme=tokyonight" width="48%" />
+</p>
 ---
 
-## Consistência no GitHub
+## 🔥 Consistência no GitHub
 
 <div align="center">
 
@@ -112,7 +94,7 @@ src="https://streak-stats.demolab.com?user=Raphael-Bezerra&theme=tokyonight&hide
 
 ---
 
-## Atividade
+## 📈 Atividade
 
 <div align="center">
 
@@ -124,19 +106,19 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 ---
 
-## Projetos
+## 🧩 Projetos
 
 ### Jogo do Número Secreto
 
-Projeto desenvolvido durante meus estudos de **Lógica de Programação**, utilizando JavaScript para aplicação prática de conceitos fundamentais da linguagem.
+Projeto desenvolvido durante meus estudos de **Lógica de Programação**, utilizando JavaScript para aplicação prática dos fundamentos da linguagem.
 
-Principais conceitos:
+**Conceitos trabalhados:**
 
 - Variáveis
 - Condicionais
 - Funções
 - Estruturas de controle
-- Manipulação de elementos da página
+- Manipulação da página
 - Lógica de programação
 
 [Acessar projeto](https://github.com/Raphael-Bezerra/jogo-do-numero-secreto)
@@ -145,11 +127,11 @@ Principais conceitos:
 
 ### 3CheckFlow
 
-Projeto de software voltado para controle e digitalização de processos operacionais.
+Projeto de software voltado para **controle e digitalização de processos operacionais**.
 
-O projeto nasceu como uma solução desenvolvida com **Google Apps Script** e vem sendo utilizado também como laboratório prático para estudos de Engenharia e Arquitetura de Software.
+A solução nasceu utilizando **Google Apps Script** e atualmente também funciona como laboratório prático para aplicação de conceitos de Engenharia e Arquitetura de Software.
 
-Entre os conceitos trabalhados estão:
+**Conceitos trabalhados:**
 
 - Autenticação centralizada
 - Controle de acesso baseado em responsabilidades
@@ -160,12 +142,12 @@ Entre os conceitos trabalhados estão:
 - Modularização
 - Segurança
 - PostgreSQL
-- Evolução para arquitetura PWA
+- Arquitetura PWA
 - Documentação arquitetural
 
 ---
 
-## Atualmente estudando
+## 📚 Atualmente estudando
 
 ```text
 Engenharia de Software
