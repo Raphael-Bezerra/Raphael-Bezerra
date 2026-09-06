@@ -1,16 +1,16 @@
 <h1 align="center">Raphael Bezerra</h1>
 
 <p align="center">
-  <strong>Desenvolvimento de Software • Engenharia de Software • Arquitetura de Software • Automação</strong>
+  <strong>Desenvolvimento de Software • Automação • Dados • Engenharia de Software</strong>
 </p>
 
 <p align="center">
-  Transformando problemas operacionais em soluções através de software, automação e dados.
+  Transformo processos manuais em soluções digitais eficientes, escaláveis e orientadas a resultados.
 </p>
 
 <p align="center">
   <a href="https://raphael-bezerra.github.io/">
-    <img src="https://img.shields.io/badge/VER%20PORTF%C3%93LIO-6EE7D1?style=for-the-badge&logo=googlechrome&logoColor=0A0F14" alt="Ver portfólio">
+    <img src="https://img.shields.io/badge/PORTF%C3%93LIO-6EE7D1?style=for-the-badge&logo=googlechrome&logoColor=0A0F14" alt="Portfólio">
   </a>
   <a href="https://www.linkedin.com/in/raphael-bezerra/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -22,66 +22,45 @@
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" alt="Google Apps Script">
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets">
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
-  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
-  <img src="https://img.shields.io/badge/IA_Aplicada-6E56CF?style=for-the-badge&logo=openai&logoColor=white" alt="IA Aplicada">
-  <img src="https://img.shields.io/badge/Engenharia_de_Prompts-4B5563?style=for-the-badge&logo=openai&logoColor=white" alt="Engenharia de Prompts">
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente aprofundo meus estudos em **Engenharia e Arquitetura de Software**.
+Sou formado em Análise e Desenvolvimento de Sistemas e venho ampliando meus estudos em Engenharia e Arquitetura de Software.
 
-Minha experiência combina **desenvolvimento de soluções, automação de processos, análise de dados e plataformas SaaS**.
+Minha atuação combina desenvolvimento, automação, análise de dados e soluções digitais para otimizar processos operacionais e apoiar decisões.
 
-Atualmente direciono minha evolução para Engenharia de Software, arquitetura, segurança e modelagem de soluções, incorporando também **IA aplicada ao desenvolvimento** e **Engenharia de Prompts (Prompt Engineering — estruturação de instruções para IA)** como apoio à análise, documentação, revisão de código, automação de tarefas e organização de fluxos técnicos.
-
-Tenho utilizado ferramentas como **ChatGPT e Codex** de forma integrada ao processo de desenvolvimento, explorando agentes, contexto persistente de projeto, validações automatizadas e fluxos assistidos por IA.
+Além disso, estou aprofundando o uso de IA aplicada ao desenvolvimento, incluindo automação de tarefas, revisão de código, documentação técnica e organização de fluxos de trabalho.
 
 ---
 
 ## 🧩 Projeto em destaque
 
 ### CheckFlow
+Solução voltada à digitalização, rastreabilidade e controle de fluxos operacionais.
 
-Solução voltada à digitalização, controle e rastreabilidade de fluxos operacionais, utilizada como aplicação prática dos meus estudos de desenvolvimento, Engenharia e Arquitetura de Software.
+`Arquitetura` `Automação` `Segurança` `PostgreSQL` `PWA`
 
-`Arquitetura` `Regras de negócio` `Segurança` `Automação` `PostgreSQL` `PWA`
-
-Case técnico disponível no portfólio; o código-fonte é mantido privado.
+Acesse mais projetos no meu portfólio.
 
 <p>
   <a href="https://raphael-bezerra.github.io/#projetos">
-    <img src="https://img.shields.io/badge/CONHECER%20PROJETOS-6EE7D1?style=for-the-badge&logo=googlechrome&logoColor=0A0F14" alt="Conhecer projetos">
+    <img src="https://img.shields.io/badge/VER%20PROJETOS-6EE7D1?style=for-the-badge&logo=googlechrome&logoColor=0A0F14" alt="Ver projetos">
   </a>
 </p>
 
@@ -90,8 +69,8 @@ Case técnico disponível no portfólio; o código-fonte é mantido privado.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raphael-Bezerra&theme=tokyonight" width="48%" alt="Estatísticas do GitHub">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raphael-Bezerra&theme=tokyonight" width="48%" alt="Linguagens por repositório">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raphael-Bezerra&theme=tokyonight" width="48%" alt="GitHub stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raphael-Bezerra&theme=tokyonight" width="48%" alt="Languages per repo">
 </p>
 
 ---
