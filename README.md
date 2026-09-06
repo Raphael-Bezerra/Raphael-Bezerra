@@ -1,13 +1,23 @@
 <h1 align="center">Raphael Bezerra</h1>
 
-<p align="center"><strong>Desenvolvimento de Software • Engenharia de Software • Arquitetura • Automação</strong></p>
-
-<p align="center">Transformando problemas operacionais em soluções através de software, automação e dados.</p>
+<p align="center">
+  <strong>Desenvolvimento de Software • Engenharia de Software • Arquitetura de Software • Automação</strong>
+</p>
 
 <p align="center">
-  <a href="https://raphael-bezerra.github.io/"><img src="https://img.shields.io/badge/VER%20PORTF%C3%93LIO-6EE7D1?style=for-the-badge&logo=googlechrome&logoColor=0A0F14" alt="Ver portfólio"></a>
-  <a href="https://www.linkedin.com/in/raphael-bezerra/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Raphael-Bezerra"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  Transformando problemas operacionais em soluções através de software, automação e dados.
+</p>
+
+<p align="center">
+  <a href="https://raphael-bezerra.github.io/">
+    <img src="https://img.shields.io/badge/VER%20PORTF%C3%93LIO-6EE7D1?style=for-the-badge&logo=googlechrome&logoColor=0A0F14" alt="Ver portfólio">
+  </a>
+  <a href="https://www.linkedin.com/in/raphael-bezerra/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Raphael-Bezerra">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ---
@@ -20,6 +30,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
 </p>
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -27,6 +38,7 @@
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 </p>
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -44,7 +56,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente aprofundo
 
 Minha experiência combina **desenvolvimento de soluções, automação de processos, análise de dados e plataformas SaaS**.
 
-Atualmente direciono minha evolução para Engenharia de Software, arquitetura, segurança e modelagem de soluções, com uma abordagem prática e contínua.
+Atualmente direciono minha evolução para Engenharia de Software, arquitetura, segurança e modelagem de soluções, aplicando esses conhecimentos de forma prática em projetos reais e estudos contínuos.
 
 ---
 
@@ -56,13 +68,13 @@ Solução voltada à digitalização, controle e rastreabilidade de fluxos opera
 
 `Arquitetura` `Regras de negócio` `Segurança` `Automação` `PostgreSQL` `PWA`
 
-O código do projeto é privado.
+Case técnico disponível no portfólio; o código-fonte é mantido privado.
 
-<a href="https://raphael-bezerra.github.io/#projetos"><img src="https://img.shields.io/badge/CONHECER%20PROJETOS-6EE7D1?style=for-the-badge&logo=googlechrome&logoColor=0A0F14" alt="Conhecer projetos"></a>
-
-Projetos de estudo e experimentação estão organizados no meu portfólio.
-
-<a href="https://raphael-bezerra.github.io/"><img src="https://img.shields.io/badge/VER%20TODOS%20OS%20PROJETOS-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os projetos"></a>
+<p>
+  <a href="https://raphael-bezerra.github.io/#projetos">
+    <img src="https://img.shields.io/badge/CONHECER%20PROJETOS-6EE7D1?style=for-the-badge&logo=googlechrome&logoColor=0A0F14" alt="Conhecer projetos">
+  </a>
+</p>
 
 ---
 
@@ -78,7 +90,13 @@ Projetos de estudo e experimentação estão organizados no meu portfólio.
 ## 🤝 Contato
 
 <p>
-  <a href="https://raphael-bezerra.github.io/"><img src="https://img.shields.io/badge/Portfólio-6EE7D1?style=for-the-badge&logo=googlechrome&logoColor=0A0F14" alt="Portfólio"></a>
-  <a href="https://www.linkedin.com/in/raphael-bezerra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Raphael-Bezerra"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://raphael-bezerra.github.io/">
+    <img src="https://img.shields.io/badge/PORTF%C3%93LIO-6EE7D1?style=for-the-badge&logo=googlechrome&logoColor=0A0F14" alt="Portfólio">
+  </a>
+  <a href="https://www.linkedin.com/in/raphael-bezerra/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Raphael-Bezerra">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
