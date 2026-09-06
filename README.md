@@ -48,6 +48,13 @@
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets">
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
+  <img src="https://img.shields.io/badge/IA_Aplicada-6E56CF?style=for-the-badge&logo=openai&logoColor=white" alt="IA Aplicada">
+  <img src="https://img.shields.io/badge/Engenharia_de_Prompts-4B5563?style=for-the-badge&logo=openai&logoColor=white" alt="Engenharia de Prompts">
+</p>
+
 ---
 
 ## 👨‍💻 Sobre mim
@@ -56,7 +63,9 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente aprofundo
 
 Minha experiência combina **desenvolvimento de soluções, automação de processos, análise de dados e plataformas SaaS**.
 
-Atualmente direciono minha evolução para Engenharia de Software, arquitetura, segurança e modelagem de soluções, aplicando esses conhecimentos de forma prática em projetos reais e estudos contínuos.
+Atualmente direciono minha evolução para Engenharia de Software, arquitetura, segurança e modelagem de soluções, incorporando também **IA aplicada ao desenvolvimento** e **Engenharia de Prompts (Prompt Engineering — estruturação de instruções para IA)** como apoio à análise, documentação, revisão de código, automação de tarefas e organização de fluxos técnicos.
+
+Tenho utilizado ferramentas como **ChatGPT e Codex** de forma integrada ao processo de desenvolvimento, explorando agentes, contexto persistente de projeto, validações automatizadas e fluxos assistidos por IA.
 
 ---
 
